@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: rgb(137, 153, 175);
+  min-height: 100vh;
+}
+
+/* .header,.footer{
+
+  background-color: aquamarine;
+}
+#topic{
+
+  background-color: chocolate;
+} */
+.KGF{
+  background-color: #eaeaea6e;
+    width: 154px;
+    border: -14px solid rgb(255, 255, 255);
+    padding: 42px;
+    margin: 18px;
+    height: 375px;
+    text-align: -webkit-left;
+    box-shadow: 4px 4px 10px 2px #2f2f2f;
+    border-radius: 31px;
+    display: grid;
+    display: inline-grid;
+
+}
